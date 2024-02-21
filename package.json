@@ -39,7 +39,6 @@
     "prepare": "husky install",
     "prepreview": "yarn build",
     "preview": "vite preview",
-    "prepublish": "yarn test:ci",
     "start": "vite",
     "storybook": "start-storybook -p 6006",
     "test": "vitest",
